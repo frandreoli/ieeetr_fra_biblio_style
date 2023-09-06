@@ -1,5 +1,5 @@
 # Description
-A modified version of the IEEE-Transactions (ieeetr) style for LaTeX bibliographies (modified in 2020 by Francesco Andreoli). The original version (8-Dec-10 version) is by Howard Trickey and Oren Patashnik.
+A modified version of the IEEE-Transactions (ieeetr) style for LaTeX bibliographies (modified in 2020 by Francesco Andreoli). The original version (2010 version) is by Howard Trickey and Oren Patashnik.
 The original copyright statement is quoted here below, and it is assumed to be valid for this modified version as well:
 
 > Unlimited copying and redistribution of this file are permitted as long as it is unmodified.  Modifications (and redistribution of modified versions) are also permitted, but only if the resulting file is renamed.
