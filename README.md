@@ -6,6 +6,7 @@ The original copyright statement is quoted here below, and it is assumed to be v
 
 According to this statement, this (modified) version has been renamed, from "ieeetr.bst" to "ieeetr_fra.bst".
 
+The language used in the .bst file is a special-purpose language described in the BibTeX documentation. A nice description can be found in the notes: [Tame the BeaST][https://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf] by Nicolas Markey (2009).
 
 
 # Modifications 
