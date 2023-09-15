@@ -1,5 +1,5 @@
 # Description
-A modified version of the IEEE-Transactions (ieeetr) style for LaTeX bibliographies (modified in 2020 by Francesco Andreoli). The original version (2010 version) is by Howard Trickey and Oren Patashnik.
+A modified version of the IEEE-Transactions (ieeetr) style for LaTeX bibliographies. The original version (2010 version) is by Howard Trickey and Oren Patashnik.
 The original copyright statement is quoted here below, and it is assumed to be valid for this modified version as well:
 
 > Unlimited copying and redistribution of this file are permitted as long as it is unmodified.  Modifications (and redistribution of modified versions) are also permitted, but only if the resulting file is renamed.
@@ -8,7 +8,7 @@ According to this statement, this (modified) version has been renamed, from "iee
 
 The language used is a special-purpose language described in the BibTeX documentation. A nice description can be found in the notes: [Tame the BeaST](https://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf) by Nicolas Markey (2009).
 
-Two examples of this modified bibliography style are given by:
+Two examples of this modified bibliography style can be found in the arXiv versions of the papers:
 
 <a id="Andreoli2021">[1]</a> 
 Andreoli F, Gullans MJ, High AA, Browaeys A, Chang DE, 
