@@ -8,12 +8,7 @@ According to this statement, this (modified) version has been renamed, from "iee
 
 The language used is a special-purpose language described in the BibTeX documentation. A nice description can be found in the notes: [Tame the BeaST](https://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf) by Nicolas Markey (2009).
 
-Two examples of this modified bibliography style can be found in the arXiv version of the papers:
-
-<a id="Andreoli2021">[1]</a> 
-Andreoli F, Gullans MJ, High AA, Browaeys A, Chang DE, 
-*Maximum Refractive Index of an Atomic Medium*, 
-[arXiv:2006.01680](https://arxiv.org/abs/2006.01680) (2021)
+Two examples of this modified bibliography style can be found here:
 
  <a id="Andreoli2023a">[2]</a> 
 Andreoli F, Windt B, Grava S, Andolina GM, Gullans MJ, High AA, Chang DE, 
