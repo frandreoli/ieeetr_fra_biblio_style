@@ -10,7 +10,7 @@ The language used is a special-purpose language described in the BibTeX document
 
 Two examples of this modified bibliography style can be found here:
 
- <a id="Andreoli2023a">[2]</a> 
+ <a id="Andreoli2023a">[1]</a> 
 Andreoli F, Windt B, Grava S, Andolina GM, Gullans MJ, High AA, Chang DE, 
 *The maximum refractive index of an atomic crystal - from quantum optics to quantum chemistry*, 
 [arXiv:2303.10998](https://arxiv.org/abs/2303.10998) (2023) 
