@@ -23,8 +23,8 @@ List of modifications:
 2. For papers and books, a hyperlink to the DOI will be automatically added to the title. If the DOI is undefined, then it will be replaced by the URL (if defined) associated to that entry.
 3. For miscellaneous, it will look for an associated URL, and then it will hyperlink to that webpage.
 4. The date format is modified to mm/yy.
-5. The type `latexNote` is defined, which allows to add comments as a bibliography reference:
+5. The type `latexNote` is defined, which allows to add comments as a bibliography reference saved in the following format:
 
-```@latexNote{entryName,
-    note = {Add Latex text here}
-}```
+```BibTex
+@latexNote{entryName, note = {Add Latex text here}}
+```
