@@ -661,6 +661,13 @@ FUNCTION {article}
   fin.entry
 }
 
+FUNCTION {latexNote}
+{ output.bibitem
+  note output
+  new.block
+  fin.entry
+}
+
 FUNCTION {book}
 { output.bibitem
   author empty$
